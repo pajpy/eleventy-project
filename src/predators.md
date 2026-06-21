@@ -9,7 +9,7 @@ Predatory dinosaurs were meat-eating animals that hunted or scavenged for food. 
 
 One of the most famous predators was the **Tyrannosaurus rex**, known for its massive skull, strong bite force, and large size.
 
-![Tyrannosaurus Rex](/images/trex.jpg)
+<img src="{{ '/images/trex.jpg' | url }}" alt="Tyrannosaurus Rex">
 
 ## Common Features
 

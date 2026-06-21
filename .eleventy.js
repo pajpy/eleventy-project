@@ -8,6 +8,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/js");
 
   return {
+    pathPrefix: "/eleventy-project/",
     dir: {
       input: "src",
       output: "_site"
